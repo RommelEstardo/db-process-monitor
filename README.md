@@ -1,4 +1,4 @@
-# db_process_monitor
+# db-process-monitor
 
 # sp_GetActiveProcesses
 
